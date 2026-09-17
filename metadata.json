@@ -1,0 +1,6 @@
+{
+  "name": "Placement Management System",
+  "description": "A centralized placement management system for managing students, companies, placement drives, and student applications with complete CRUD operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
